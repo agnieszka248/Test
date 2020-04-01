@@ -1,4 +1,5 @@
 # Test
 
 To jest moje pierwsze repozytorium!
-Edytowałem plik z poziomu GitHub.
+
+Edytowałam plik z poziomu GitHub.
